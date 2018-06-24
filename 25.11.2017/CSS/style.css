@@ -1,0 +1,25 @@
+.chees{
+width: 800px;
+height: 800px;
+margin: 0 auto;
+border: 2px solid black;
+}
+.row{
+  height: 100px;
+  display: block;
+  clear: both;
+}
+.row div{
+  height: 100px;
+  width: 100px;
+  float: left;
+  font-size: 75px;
+  text-align: center; 
+}
+.white{
+  background: white;
+}
+.black{
+  background: gray;
+}
+
